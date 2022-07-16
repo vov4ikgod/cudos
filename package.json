@@ -1,0 +1,33 @@
+{
+  "name": "cudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "buffer-alloc-unsafe": "^1.1.0",
+    "buffer-fill": "^1.0.0",
+    "buffer-alloc": "^1.2.0",
+    "abort-controller": "^3.0.0",
+    "ms": "^2.1.2",
+    "minimist": "^1.2.6",
+    "debug": "^4.3.4",
+    "event-target-shim": "^5.0.1",
+    "p-timeout": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "telegraf": "^4.8.5",
+    "safe-compare": "^1.1.4",
+    "sandwich-stream": "^2.0.2",
+    "webidl-conversions": "^3.0.1",
+    "tr46": "^0.0.3",
+    "whatwg-url": "^5.0.0",
+    "typegram": "^3.10.0",
+    "module-alias": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
